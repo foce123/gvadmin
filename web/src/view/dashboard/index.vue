@@ -71,7 +71,7 @@
     </div>
     <div class="gva-card-box">
       <div class="gva-card quick-entrance">
-        <div class="gva-card-title">快捷入口</div>
+        <!-- <div class="gva-card-title">快捷入口</div>
         <el-row :gutter="20">
           <el-col
             v-for="(card, key) in toolCards"
@@ -96,7 +96,7 @@
               <p>{{ card.label }}</p>
             </div>
           </el-col>
-        </el-row>
+        </el-row> -->
       </div>
     </div>
     <div class="gva-card-box">

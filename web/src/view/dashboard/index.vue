@@ -44,7 +44,7 @@
             </el-col>
           </el-row>
           <div>
-            <div class="gva-top-card-left-item">
+            <!-- <div class="gva-top-card-left-item">
               使用教学：
               <a
                 style="color:#409EFF"
@@ -59,7 +59,7 @@
                 target="view_window"
                 href="https://plugin.gin-vue-admin.com/#/layout/home"
               >https://plugin.gin-vue-admin.com</a>
-            </div>
+            </div> -->
           </div>
         </div>
         <img
